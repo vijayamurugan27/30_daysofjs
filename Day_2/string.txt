@@ -1,0 +1,55 @@
+string = "hai I love you"
+
+length - to find the length of the obj, 
+string.length
+
+charAt() - to find the character in the indexed position
+string.charAt(3)
+
+charCodeAt() - to find the ascii number for the particular alphabets or numbers in the position.
+string.charCodeAt(3)
+
+concat() - used to merge two strings
+string.concat('hai', 'we', 'are', 'friends')
+
+endsWith() - used to check for the ending character or the string.
+startsWith() - used to check for the startign character or the string.
+
+string.startsWith('hai')
+string.endsWith('you')
+
+includes() - is used to check for the particular string or a character is in the var.
+string.includes('love')
+
+indexOf() - is used to check the number for the particular character or a string.
+string.index('l')
+
+lastIndexOf() - if you are having multiple occurance of a particualr string or a character, 
+then the lastIndexOf is used to find the last occurance position in the sentence.
+string.lastIndexOf('o')
+
+match() - is used to find a matching pattern or a word.
+string.match('love')
+
+repeat() - is used to repeat the string n number of times.
+string.repeat(5)
+
+replace('oldstr', 'newstr') -used to replace a newstr with the newstr.
+
+search() - used to search a particular character in the string.
+string.search('love')
+
+split() - used to split a particular string.
+string.split('')
+
+substr(sp, nc) - used to trim from starting position and the number of characters
+string.substr(5,3)
+
+substring() - used to trim the starting position and the ending position of the character.
+string.substring(5,8) , Note : the second value should be greater than the first value.
+
+trim() - is ued to cut down the excess unwanted empty spaces at the initial and the ending postion.
+string.trim()
+
+console.log(string, string.toLowerCase()) - is used to convert every char to lowercase
+console.log(string, string.toUpperCase()) - is used to convert every char to UpperCase
