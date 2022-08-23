@@ -1,0 +1,17 @@
+Methods to manipulate array
+        Array, 
+        length, 
+        concat, 
+        indexOf, 
+        slice, 
+        splice, 
+        join, 
+        toString, 
+        includes, 
+        lastIndexOf, 
+        isArray, 
+        fill, 
+        push, 
+        pop, 
+        shift, 
+        unshift

@@ -1,0 +1,26 @@
+Arrays
+    How to create an empty array
+    How to create an array with values
+    Creating an array using split
+    Accessing array items using index
+    Modifying Array element
+    Metods to manipulate array
+        Array constructor
+        Creatign static values wih fill
+        Concatenating array using cancat
+        Getting array length
+        Getting index an element in an array
+        Gettign last index of an element in array
+        Checking array
+        Converting array to string
+        joining array elements
+        slice array elements
+        splice method in array
+        Adding item to an srray using push
+        Removing the end element using pop
+        Removing an element from the beginning
+        Add an element from the beginning
+        Reversing array order
+        Sorting elements in array
+    Array of arrays
+
