@@ -1,0 +1,17 @@
+    Scope
+        Window Global Object
+        Clobal Scope
+        Local Scope
+
+    Object
+        Creating an empty Object
+        Creating an objecting with values
+        Getting values from an object
+        Creating object methods
+        Setting new key for an object
+
+    Object methods
+        Getting object keys using Object.keys()
+        Getting object values using Object.values()
+        Getting object Keys and Values using Object.entries()
+        Checking properties using hasOwnProperty()
