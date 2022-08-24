@@ -1,0 +1,17 @@
+Functions:
+    Function declaration
+    Function without a prameter and return
+    Function returning value
+    Function with a parameter
+    Function without many parameters
+    Function with unlimited number of parameters
+        Unlimited number of parameters in regular Function
+        unlimited number of parameters in arrow Function
+    Anonumous Function
+    Expression Function
+    self invoking Functions
+    Arrow Function
+    Function with default parameters
+    Function declared versus Arrow Function
+
+    
